@@ -1,7 +1,7 @@
 ## Hi, I'm Thales Ribeiro. A brazilian guy who loves programming, books and music.
 
 - 📚 Learning C# 
-- 🌱 Using .NetFramework
+- 🌱 Using .Net
 - 🔮 Something else...
 
 
